@@ -6,7 +6,7 @@ sites:
   - name: vClaim Bridging Server
     url: https://hugaf.rumkitalmerauke.com/simrs/jknmobile/hugaf/vclaim
   - name: vClaim Web (https://vclaim.bpjs-kesehatan.go.id/vclaim)
-    url: https://vclaim.bpjs-kesehatan.go.id/VClaim/BotDetectCaptcha.ashx?get=image&c=AppCaptcha&t=cdb19180602e4c37aa95539338b1ad9a&d=1711781956922
+    url: https://vclaim.bpjs-kesehatan.go.id/VClaim/
   - name: SatuSehat Bridging Server
     url: https://api-satusehat.kemkes.go.id/kyc/v1/validation-web/
   - name: SIMRS Rumkital Merauke (CLOUD SERVER)
