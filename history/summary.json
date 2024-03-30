@@ -1,22 +1,22 @@
 [
   {
     "name": "vClaim Bridging Server",
-    "url": "https://apijkn.bpjs-kesehatan.go.id/vclaim-rest",
+    "url": "https://apijkn.bpjs-kesehatan.go.id/vclaim-rest/referensi/poli/UMU",
     "icon": "https://icons.duckduckgo.com/ip3/apijkn.bpjs-kesehatan.go.id.ico",
     "slug": "v-claim-bridging-server",
     "status": "down",
-    "uptime": "44.14%",
-    "uptimeDay": "44.14%",
-    "uptimeWeek": "44.14%",
-    "uptimeMonth": "44.14%",
-    "uptimeYear": "44.14%",
+    "uptime": "8.56%",
+    "uptimeDay": "8.56%",
+    "uptimeWeek": "8.56%",
+    "uptimeMonth": "8.56%",
+    "uptimeYear": "8.56%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-30": 0
+      "2024-03-30": 4
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/apijkn.bpjs-kesehatan.go.id.ico",
     "slug": "antrean-online-bpjs-bridging-server",
     "status": "down",
-    "uptime": "78.43%",
-    "uptimeDay": "78.43%",
-    "uptimeWeek": "78.43%",
-    "uptimeMonth": "78.43%",
-    "uptimeYear": "78.43%",
+    "uptime": "9.44%",
+    "uptimeDay": "9.44%",
+    "uptimeWeek": "9.44%",
+    "uptimeMonth": "9.44%",
+    "uptimeYear": "9.44%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-30": 0
+      "2024-03-30": 4
     }
   },
   {
@@ -50,29 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1034,
-    "timeDay": 1034,
-    "timeWeek": 1034,
-    "timeMonth": 1034,
-    "timeYear": 1034,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "SIMRS Rumkital Merauke",
-    "url": "http://115.85.86.108/simrs/",
-    "icon": "https://icons.duckduckgo.com/ip3/115.85.86.108.ico",
-    "slug": "simrs-rumkital-merauke",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 968,
-    "timeDay": 968,
-    "timeWeek": 968,
-    "timeMonth": 968,
-    "timeYear": 968,
+    "time": 1030,
+    "timeDay": 1030,
+    "timeWeek": 1030,
+    "timeMonth": 1030,
+    "timeYear": 1030,
     "dailyMinutesDown": {}
   }
 ]
