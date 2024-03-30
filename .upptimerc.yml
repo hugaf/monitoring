@@ -9,8 +9,6 @@ sites:
     url: https://apijkn.bpjs-kesehatan.go.id/antreanrs
   - name: Hugaf
     url: https://hugaf.com
-  - name: SIMRS Rumkital Merauke
-    url: http://115.85.86.108/simrs/
   #- name: IPv6 test
   #  url: forwardemail.net
   #  port: 80
