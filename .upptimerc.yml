@@ -4,9 +4,11 @@ repo: monitoring # The name of this repository
 
 sites:
   - name: vClaim Bridging Server
-    url: https://apijkn.bpjs-kesehatan.go.id/vclaim-rest/referensi/poli/UMU
-  - name: Antrean Online BPJS Bridging Server
-    url: https://apijkn.bpjs-kesehatan.go.id/antreanrs
+    url: https://hugaf.rumkitalmerauke.com/simrs/jknmobile/hugaf/vclaim
+  - name: SIMRS Rumkital Merauke (CLOUD SERVER)
+    url: https://hugaf.rumkitalmerauke.com/simrs/jknmobile/
+  #- name: Antrean Online BPJS Bridging Server
+  #  url: https://apijkn.bpjs-kesehatan.go.id/antreanrs
   - name: Hugaf
     url: https://hugaf.com
   #- name: IPv6 test
