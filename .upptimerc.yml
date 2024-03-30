@@ -5,10 +5,10 @@ repo: monitoring # The name of this repository
 sites:
   - name: vClaim Bridging Server
     url: https://hugaf.rumkitalmerauke.com/simrs/jknmobile/hugaf/vclaim
+  - name: SatuSehat Bridging Server
+    url: https://api-satusehat.kemkes.go.id/kyc/v1/validation-web/
   - name: SIMRS Rumkital Merauke (CLOUD SERVER)
     url: https://hugaf.rumkitalmerauke.com/simrs/jknmobile/
-  #- name: Antrean Online BPJS Bridging Server
-  #  url: https://apijkn.bpjs-kesehatan.go.id/antreanrs
   - name: Hugaf
     url: https://hugaf.com
   #- name: IPv6 test
@@ -22,7 +22,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   #cname: demo.upptime.js.org
   baseUrl: /monitoring
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://icons.duckduckgo.com/ip3/hugaf.com.ico
   name: Hugaf Monitoring Tools
   introTitle: "**Hugaf** is the monitor and status page."
   introMessage: ""
