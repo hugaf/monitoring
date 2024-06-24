@@ -55,19 +55,19 @@
     "url": "https://api-satusehat.kemkes.go.id/kyc/v1/validation-web/",
     "icon": "https://icons.duckduckgo.com/ip3/api-satusehat.kemkes.go.id.ico",
     "slug": "satu-sehat-bridging-server",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.14%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 1271,
-    "timeDay": 1050,
-    "timeWeek": 1126,
-    "timeMonth": 1162,
-    "timeYear": 1271,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "96.82%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.96%",
+    "time": 1321,
+    "timeDay": 2668,
+    "timeWeek": 1657,
+    "timeMonth": 1305,
+    "timeYear": 1321,
     "dailyMinutesDown": {
-      "2024-06-24": 12
+      "2024-06-24": 46
     }
   },
   {
