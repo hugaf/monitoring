@@ -1,7 +1,7 @@
 url: https://api-satusehat.kemkes.go.id/kyc/v1/validation-web/
-status: up
-code: 200
-responseTime: 1017
-lastUpdated: 2025-01-29T23:11:37.566Z
+status: down
+code: 429
+responseTime: 2561
+lastUpdated: 2025-01-30T06:51:55.574Z
 startTime: 2024-03-30T13:40:18.864Z
 generator: Upptime <https://github.com/upptime/upptime>
