@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/hugaf.rumkitalmerauke.com.ico",
     "slug": "v-claim-bridging-server",
     "status": "up",
-    "uptime": "95.95%",
+    "uptime": "95.96%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.89%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "98.85%",
-    "uptimeYear": "95.95%",
-    "time": 1542,
-    "timeDay": 1195,
-    "timeWeek": 1232,
-    "timeMonth": 1327,
-    "timeYear": 1542,
+    "uptimeYear": "95.96%",
+    "time": 1541,
+    "timeDay": 1172,
+    "timeWeek": 1258,
+    "timeMonth": 1323,
+    "timeYear": 1546,
     "dailyMinutesDown": {
       "2025-03-23": 11,
       "2025-03-19": 10,
@@ -90,8 +90,7 @@
       "2024-04-17": 150,
       "2024-04-13": 18,
       "2024-04-10": 11,
-      "2024-04-09": 24,
-      "2024-03-31": 11
+      "2024-04-09": 24
     }
   },
   {
@@ -123,9 +122,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 1141,
-    "timeDay": 1015,
-    "timeWeek": 997,
+    "time": 1140,
+    "timeDay": 943,
+    "timeWeek": 985,
     "timeMonth": 952,
     "timeYear": 1141,
     "dailyMinutesDown": {
@@ -147,16 +146,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/hugaf.rumkitalmerauke.com.ico",
     "slug": "simrs-rumkital-merauke-cloud-server",
     "status": "up",
-    "uptime": "95.96%",
+    "uptime": "95.97%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.89%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "98.83%",
     "uptimeYear": "95.96%",
     "time": 1909,
-    "timeDay": 1559,
-    "timeWeek": 1723,
+    "timeDay": 1988,
+    "timeWeek": 1908,
     "timeMonth": 2005,
-    "timeYear": 1909,
+    "timeYear": 1913,
     "dailyMinutesDown": {
       "2025-03-23": 11,
       "2025-03-21": 10,
@@ -229,8 +228,7 @@
       "2024-04-17": 150,
       "2024-04-10": 11,
       "2024-04-09": 24,
-      "2024-04-03": 17,
-      "2024-03-31": 11
+      "2024-04-03": 17
     }
   },
   {
@@ -245,10 +243,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1047,
-    "timeDay": 1067,
-    "timeWeek": 1176,
-    "timeMonth": 1105,
-    "timeYear": 1047,
+    "timeDay": 1010,
+    "timeWeek": 1137,
+    "timeMonth": 1102,
+    "timeYear": 1048,
     "dailyMinutesDown": {}
   }
 ]
