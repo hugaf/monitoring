@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/hugaf.rumkitalmerauke.com.ico",
     "slug": "v-claim-bridging-server",
     "status": "up",
-    "uptime": "96.05%",
+    "uptime": "96.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.85%",
     "uptimeYear": "95.96%",
     "time": 1538,
-    "timeDay": 2365,
-    "timeWeek": 1369,
-    "timeMonth": 1341,
+    "timeDay": 1289,
+    "timeWeek": 1398,
+    "timeMonth": 1348,
     "timeYear": 1552,
     "dailyMinutesDown": {
       "2025-03-23": 11,
@@ -89,8 +89,7 @@
       "2024-05-03": 241,
       "2024-04-17": 150,
       "2024-04-13": 18,
-      "2024-04-10": 11,
-      "2024-04-09": 24
+      "2024-04-10": 11
     }
   },
   {
@@ -123,9 +122,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 1137,
-    "timeDay": 1059,
-    "timeWeek": 961,
-    "timeMonth": 956,
+    "timeDay": 1001,
+    "timeWeek": 968,
+    "timeMonth": 959,
     "timeYear": 1137,
     "dailyMinutesDown": {
       "2025-02-14": 65,
@@ -146,15 +145,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/hugaf.rumkitalmerauke.com.ico",
     "slug": "simrs-rumkital-merauke-cloud-server",
     "status": "up",
-    "uptime": "96.05%",
+    "uptime": "96.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.83%",
     "uptimeYear": "95.97%",
     "time": 1908,
-    "timeDay": 1716,
-    "timeWeek": 1822,
-    "timeMonth": 1981,
+    "timeDay": 2120,
+    "timeWeek": 1917,
+    "timeMonth": 1996,
     "timeYear": 1918,
     "dailyMinutesDown": {
       "2025-03-23": 11,
@@ -226,8 +225,7 @@
       "2024-05-15": 866,
       "2024-05-03": 241,
       "2024-04-17": 150,
-      "2024-04-10": 11,
-      "2024-04-09": 24
+      "2024-04-10": 11
     }
   },
   {
@@ -242,10 +240,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1048,
-    "timeDay": 1116,
-    "timeWeek": 1077,
-    "timeMonth": 1097,
-    "timeYear": 1051,
+    "timeDay": 1230,
+    "timeWeek": 1128,
+    "timeMonth": 1110,
+    "timeYear": 1043,
     "dailyMinutesDown": {}
   }
 ]
