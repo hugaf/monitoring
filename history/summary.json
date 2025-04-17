@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/hugaf.rumkitalmerauke.com.ico",
     "slug": "v-claim-bridging-server",
     "status": "up",
-    "uptime": "95.54%",
+    "uptime": "95.56%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "68.16%",
+    "uptimeWeek": "77.89%",
     "uptimeMonth": "92.62%",
     "uptimeYear": "95.36%",
-    "time": 1530,
-    "timeDay": 1192,
-    "timeWeek": 1038,
+    "time": 1529,
+    "timeDay": 1209,
+    "timeWeek": 1231,
     "timeMonth": 1235,
     "timeYear": 1555,
     "dailyMinutesDown": {
@@ -89,8 +89,7 @@
       "2024-05-19": 385,
       "2024-05-16": 272,
       "2024-05-15": 867,
-      "2024-05-03": 241,
-      "2024-04-17": 150
+      "2024-05-03": 241
     }
   },
   {
@@ -122,10 +121,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 1134,
-    "timeDay": 938,
-    "timeWeek": 963,
-    "timeMonth": 961,
+    "time": 1133,
+    "timeDay": 956,
+    "timeWeek": 959,
+    "timeMonth": 963,
     "timeYear": 1133,
     "dailyMinutesDown": {
       "2025-02-14": 65,
@@ -146,15 +145,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/hugaf.rumkitalmerauke.com.ico",
     "slug": "simrs-rumkital-merauke-cloud-server",
     "status": "up",
-    "uptime": "95.55%",
+    "uptime": "95.56%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "68.16%",
+    "uptimeWeek": "77.89%",
     "uptimeMonth": "92.60%",
     "uptimeYear": "95.36%",
-    "time": 1900,
-    "timeDay": 2287,
-    "timeWeek": 1408,
-    "timeMonth": 1914,
+    "time": 1899,
+    "timeDay": 1561,
+    "timeWeek": 1707,
+    "timeMonth": 1907,
     "timeYear": 1916,
     "dailyMinutesDown": {
       "2025-04-11": 856,
@@ -227,8 +226,7 @@
       "2024-05-19": 385,
       "2024-05-16": 273,
       "2024-05-15": 866,
-      "2024-05-03": 241,
-      "2024-04-17": 150
+      "2024-05-03": 241
     }
   },
   {
@@ -242,11 +240,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1050,
-    "timeDay": 1136,
-    "timeWeek": 1110,
-    "timeMonth": 1111,
-    "timeYear": 1045,
+    "time": 1049,
+    "timeDay": 927,
+    "timeWeek": 1073,
+    "timeMonth": 1103,
+    "timeYear": 1044,
     "dailyMinutesDown": {}
   }
 ]
