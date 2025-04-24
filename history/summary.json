@@ -238,19 +238,19 @@
     "url": "https://hugaf.com",
     "icon": "https://icons.duckduckgo.com/ip3/hugaf.com.ico",
     "slug": "hugaf",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.84%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 1096,
-    "timeDay": 10240,
-    "timeWeek": 3398,
-    "timeMonth": 1681,
-    "timeYear": 1098,
+    "timeDay": 7112,
+    "timeWeek": 3116,
+    "timeMonth": 1656,
+    "timeYear": 1097,
     "dailyMinutesDown": {
-      "2025-04-24": 0
+      "2025-04-24": 17
     }
   }
 ]
