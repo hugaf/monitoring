@@ -10,10 +10,10 @@
     "uptimeWeek": "99.57%",
     "uptimeMonth": "97.63%",
     "uptimeYear": "91.81%",
-    "time": 2070,
-    "timeDay": 1356,
-    "timeWeek": 3283,
-    "timeMonth": 1767,
+    "time": 2069,
+    "timeDay": 1359,
+    "timeWeek": 3292,
+    "timeMonth": 1771,
     "timeYear": 2187,
     "dailyMinutesDown": {
       "2025-10-29": 44,
@@ -106,8 +106,7 @@
       "2024-11-14": 558,
       "2024-11-13": 1312,
       "2024-11-12": 14,
-      "2024-11-05": 49,
-      "2024-11-02": 34
+      "2024-11-05": 49
     }
   },
   {
@@ -140,9 +139,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
     "time": 1032,
-    "timeDay": 985,
-    "timeWeek": 905,
-    "timeMonth": 930,
+    "timeDay": 961,
+    "timeWeek": 903,
+    "timeMonth": 932,
     "timeYear": 975,
     "dailyMinutesDown": {
       "2025-10-07": 35,
@@ -163,15 +162,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/hugaf.rumkitalmerauke.com.ico",
     "slug": "simrs-rumkital-merauke-cloud-server",
     "status": "up",
-    "uptime": "94.74%",
+    "uptime": "94.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "97.63%",
     "uptimeYear": "91.75%",
     "time": 2546,
-    "timeDay": 1848,
-    "timeWeek": 4004,
-    "timeMonth": 2441,
+    "timeDay": 1881,
+    "timeWeek": 3972,
+    "timeMonth": 2436,
     "timeYear": 2780,
     "dailyMinutesDown": {
       "2025-10-29": 43,
@@ -268,8 +267,7 @@
       "2024-11-15": 24,
       "2024-11-14": 537,
       "2024-11-13": 1311,
-      "2024-11-05": 49,
-      "2024-11-02": 33
+      "2024-11-05": 49
     }
   },
   {
@@ -283,11 +281,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 1204,
-    "timeDay": 1265,
-    "timeWeek": 1101,
-    "timeMonth": 1152,
-    "timeYear": 1262,
+    "time": 1205,
+    "timeDay": 1297,
+    "timeWeek": 1118,
+    "timeMonth": 1155,
+    "timeYear": 1263,
     "dailyMinutesDown": {
       "2025-07-16": 184,
       "2025-07-15": 517,
