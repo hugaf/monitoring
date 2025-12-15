@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/hugaf.rumkitalmerauke.com.ico",
     "slug": "v-claim-bridging-server",
     "status": "up",
-    "uptime": "95.11%",
+    "uptime": "95.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.19%",
-    "uptimeYear": "92.32%",
+    "uptimeYear": "92.52%",
     "time": 2071,
-    "timeDay": 1012,
-    "timeWeek": 1221,
-    "timeMonth": 1576,
-    "timeYear": 2236,
+    "timeDay": 1262,
+    "timeWeek": 1228,
+    "timeMonth": 1581,
+    "timeYear": 2242,
     "dailyMinutesDown": {
       "2025-11-27": 41,
       "2025-11-24": 20,
@@ -98,8 +98,7 @@
       "2025-01-15": 222,
       "2025-01-07": 64,
       "2024-12-22": 17,
-      "2024-12-16": 160,
-      "2024-12-15": 1440
+      "2024-12-16": 160
     }
   },
   {
@@ -131,11 +130,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.96%",
-    "time": 1035,
-    "timeDay": 1678,
-    "timeWeek": 1788,
-    "timeMonth": 1275,
-    "timeYear": 988,
+    "time": 1037,
+    "timeDay": 1982,
+    "timeWeek": 1811,
+    "timeMonth": 1311,
+    "timeYear": 991,
     "dailyMinutesDown": {
       "2025-11-16": 13,
       "2025-10-07": 35,
@@ -159,12 +158,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.23%",
-    "uptimeYear": "92.27%",
-    "time": 2543,
-    "timeDay": 1902,
-    "timeWeek": 2028,
-    "timeMonth": 1802,
-    "timeYear": 2814,
+    "uptimeYear": "92.47%",
+    "time": 2544,
+    "timeDay": 2278,
+    "timeWeek": 2080,
+    "timeMonth": 1821,
+    "timeYear": 2823,
     "dailyMinutesDown": {
       "2025-11-27": 41,
       "2025-11-18": 295,
@@ -251,8 +250,7 @@
       "2025-01-15": 222,
       "2025-01-07": 64,
       "2024-12-22": 17,
-      "2024-12-16": 160,
-      "2024-12-15": 1440
+      "2024-12-16": 160
     }
   },
   {
@@ -266,10 +264,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.45%",
     "uptimeYear": "99.80%",
-    "time": 1219,
-    "timeDay": 960,
-    "timeWeek": 1129,
-    "timeMonth": 1204,
+    "time": 1220,
+    "timeDay": 1165,
+    "timeWeek": 1136,
+    "timeMonth": 1210,
     "timeYear": 1284,
     "dailyMinutesDown": {
       "2025-11-21": 10,
